@@ -1,0 +1,38 @@
+GET http://localhost:80/feign/pay/bulkhead/9999
+GET http:
+GET http:
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-04-16T175609.400.html
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-04-02T180916.200.json
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-04-02T173103.200.json
+
+###
+
+GET http://localhost:8001/pay/get/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-04-02T173054.200.json
+
+###
+

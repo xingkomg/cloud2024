@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f3ee56-a6f6-4c20-9c83-2668a1881a35" name="更改" comment="" />
+    <list default="true" id="76f3ee56-a6f6-4c20-9c83-2668a1881a35" name="更改" comment="new create cloud2024 project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -33,6 +36,7 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2v29oe51b44Lq6HjYWtOPlkjH5h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +49,9 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
     "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>d77e26ef-139f-4850-b3e0-3805bd29e488</source-data-source-id>\n        <source-path>schema/&quot;seata_account&quot;</source-path>\n        <target-data-source-id>d77e26ef-139f-4850-b3e0-3805bd29e488</target-data-source-id>\n        <target-path>schema/&quot;seata_order&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
     "jdk.selected.JAVA_MODULE": "21",
     "last_directory_selection": "E:/作业/cloud2024/cloud-api-commons/src/main/java/com/atguigu/cloud",
@@ -292,11 +298,33 @@
       <workItem from="1745989331963" duration="2013000" />
       <workItem from="1745995898033" duration="11368000" />
       <workItem from="1746086920827" duration="1734000" />
+      <workItem from="1746089395637" duration="327000" />
     </task>
+    <task id="LOCAL-00001" summary="new create cloud2024 project">
+      <option name="closed" value="true" />
+      <created>1746089542009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746089542009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new create cloud2024 project">
+      <option name="closed" value="true" />
+      <created>1746089633177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746089633177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new create cloud2024 project" />
+    <option name="LAST_COMMIT_MESSAGE" value="new create cloud2024 project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
